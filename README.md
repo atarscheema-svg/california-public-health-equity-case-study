@@ -36,6 +36,7 @@ To analyze publicly available California county-level public health data from 20
   - **Comprehensive:** Contains stable age-adjusted rates and tracking indicators for all 58 California counties.
   - **Current:** Focuses on the recent 2021–2023 period.
   - **Cited:** Officially documented and open-source.
+* **Replication Dataset:** The fully processed, filtered source data is available directly within this repository as `California_Public_Health_Clean_Data.csv`.
 
 ### Data Privacy & Security
 The dataset consists entirely of aggregated, de-identified county-level statistics. There is zero risk of exposing Personally Identifiable Information (PII).
